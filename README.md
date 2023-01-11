@@ -1,17 +1,4 @@
-### CS415 Assignment 2
-
-Jiahao Zhang, NetID: jiahao7
-
-
-
-#### Assignment Requirements
-
-Level Design, due Oct 10, 2022 @ 11:59 PM
-
-
-
-Open the file: `MyLevel/Maps/MayLevelMap`
-
+### Level Design in Unreal 4 
 
 
 #### Part 1: Update Your Character
@@ -73,18 +60,3 @@ Open the file: `MyLevel/Maps/MayLevelMap`
   - [x] These objects should be destroyed on collection
   - [x] number collected should be displayed some where on the UI
 - [x] The design of the level should specifically take into account your enemy design
-
-
-
----
-
-| Name                                 | Points | Description                                                  |
-| ------------------------------------ | ------ | ------------------------------------------------------------ |
-| :rabbit2: Health System              | 10     | Display and track a player health metric                     |
-| :rabbit2:Implement the Pursuer Enemy | 10     | Implement the Pursuer enemy described in the MP spec         |
-| :rabbit2:Implement the Mortar Enemy  | 15     | Implement the Mortar enemy described in the MP spec          |
-| Create New Enemy Type                | 15     | Design and implement another enemy type of your design       |
-| :rabbit2:Level Layout                | 10     | Create a level layout that can be traversed in 5 minutes and has a level complete screen |
-| :rabbit2:Enemies                     | 10     | Strategically place all enemy types throughout the level     |
-| :rabbit2:Collectibles                | 10     | Place collectible objects around the level and display them on the UI |
-| Design Document                      | 20     | Submit a document that explains your level design and design decisions |
