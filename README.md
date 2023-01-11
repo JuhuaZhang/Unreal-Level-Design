@@ -16,6 +16,10 @@ After the above 2 parts, I gradually realized what I need for the last part -- u
 
 The third part looks like the place in *Sekiro: Shadows Die Twice* where *Sekiro* met *Juzou the Drunkard*, I did not kill him from the front, instead, I went behind it and defeated it. So in my part3, I placed some obstacles and player can use it to kill the boss from behind.
 
+Below are the demo video and the detail of the project.
+
+<video src="DemoVideo.mp4" width="600px" controls="controls"></video>
+
 ---
 
 #### Part 1: Update Your Character
